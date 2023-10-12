@@ -1,0 +1,52 @@
+<DOCTYPE html> 
+<head>
+<title>Flowers Animation HTML CSS</title> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0"
+<link rel="stylesheet" href="styls.css"
+</head>
+<body>
+<div class="flower"
+    <div class="f-wrapper">
+         <div class="flower_line"></div>
+         <div class="f">
+         <div>class="flower_leaf flower leaf--1"</div>
+         <div>class="flower_leaf flower leaf--2"</div>
+         <div>class="flower_leaf flower leaf--3"</div>
+         <div>class="flower_leaf flower leaf--4"</div>
+         <div>class="flower_leaf flower leaf--5"</div>
+         <div>class="flower_leaf flower leaf--6"</div>
+         <div>class="flower_leaf flower leaf--7"</div>
+         <div>class="flower_leaf flower leaf--8"</div>
+         flower_fall-down--yellow"
+         <div class="flower"
+    <div class="f-wrapperf-wrapper--2">
+         <div class="flower_line"></div>
+         <div class="f">
+         <div>class="flower_leaf flower leaf--1"</div>
+         <div>class="flower_leaf flower leaf--2"</div>
+         <div>class="flower_leaf flower leaf--3"</div>
+         <div>class="flower_leaf flower leaf--4"</div>
+         <div>class="flower_leaf flower leaf--5"</div>
+         <div>class="flower_leaf flower leaf--6"</div>
+         <div>class="flower_leaf flower leaf--7"</div>
+         <div>class="flower_leaf flower leaf--8"</div>
+         flower_fall-down--pink"
+         <div class="flower"
+    <div class="f-wrapper f wrapper--3">
+         <div class="flower_line"></div>
+         <div class="f">
+         <div>class="flower_leaf flower leaf--1"</div>
+         <div>class="flower_leaf flower leaf--2"</div>
+         <div>class="flower_leaf flower leaf--3"</div>
+         <div>class="flower_leaf flower leaf--4"</div>
+         <div>class="flower_leaf flower leaf--5"</div>
+         <div>class="flower_leaf flower leaf--6"</div>
+         <div>class="flower_leaf flower leaf--7"</div>
+         <div>class="flower_leaf flower leaf--8"</div>
+         flower_fall-down--blue"
+         </div>
+</div>
+<div class="flower_glass"><</div>
+</body>
+</html>
+    
